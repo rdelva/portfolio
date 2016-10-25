@@ -46,6 +46,10 @@ a:hover {
     color: white;
 }
 
+.nav  .name a {
+  color: white;
+
+}
 
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -56,6 +60,8 @@ a:hover {
 .nav a:hover {
   color: white
 }
+
+
 
 header {
   text-align: center;
