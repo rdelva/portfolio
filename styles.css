@@ -134,7 +134,12 @@ ul.skills {
   margin:2.5%;
   background-color:#f5f5f5;
   color:#313131;
-  border: 1px solid black; 
+  border: 1px solid black;
+  opacity:1; 
+  transition: all 0.5s ease;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
 }
 
 
