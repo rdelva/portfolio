@@ -137,12 +137,16 @@ ul.skills {
   border: 1px solid black; 
 }
 
-.gallery img{
-  max-width:100%;
+
+.gallery li:hover{
+  opacity:.8;
+   background-color:#f5f5f5;
+    border: 1px solid #ADD8E6; 
+
 }
 
-.gallery img:hover{
-  opacity:.8;
+.gallery img{
+  max-width:100%;
 }
 
 
