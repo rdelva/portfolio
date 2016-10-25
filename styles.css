@@ -45,6 +45,8 @@ a:hover {
     margin-right: auto;
     color: white;
 }
+
+
 .nav li {
   padding: 5px 10px 10px 10px;
 }
@@ -118,6 +120,21 @@ ul.skills {
 
 .skills li:nth-child(odd) {
   background: #0399ff;
+}
+
+
+.gallery {
+
+
+}
+
+.gallery img{
+  max-width:100%;
+}
+
+.gallery ul{
+  
+
 }
 
 footer {
