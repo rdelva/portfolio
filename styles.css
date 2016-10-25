@@ -124,7 +124,6 @@ ul.skills {
 
 
 .gallery {
-
   margin:0;
   padding:0;
   list-style: none;
@@ -140,6 +139,10 @@ ul.skills {
 
 .gallery img{
   max-width:100%;
+}
+
+.gallery img:hover{
+  opacity:.8;
 }
 
 
